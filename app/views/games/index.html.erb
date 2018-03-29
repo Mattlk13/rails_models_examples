@@ -1,0 +1,14 @@
+<h1>Games</h1>
+
+<ul>
+<% @games.each do |game| %>
+  <li>
+  <strong><%= game.title %></strong> (<%= game.rating %>):
+  <%= game.total_gross %>
+  </li>
+<% end %>
+
+
+
+
+</ul>
