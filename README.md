@@ -1,25 +1,13 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Unit is part of Coder Academy on Rails' Models
 
-Things you may want to cover:
+On successful completion of this Unit students will be able to,
 
-* Ruby version
+*    Create, read, update and delete (CRUD) data from a database in Rails
+*    Generate models and migrations
+*    Run migrations
+*    Read (fetch) information from a database
+*    Update information in a database
+*    Delete information in a database
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # rails_models_examples
